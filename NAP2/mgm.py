@@ -40,3 +40,4 @@ def calculate_mgm(xloader, network, criterion, optimizer, mode, grad=False):
             break
 
     return conv
+
